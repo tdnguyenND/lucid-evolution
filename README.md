@@ -6,6 +6,10 @@
 
 Lucid evolution includes the following packages
 
+This branch is supposed to serve as our official documentation repository for our funded proposal "Anastasia Labs - Lucid Evolution: Redefining Off-Chain Transactions in Cardano" with the Project ID: 1100024
+
+Milestone documentation can be found under `catalyst-documentation`.
+
 ### Packages
 
 Lucid Evolution consists of the following packages:
